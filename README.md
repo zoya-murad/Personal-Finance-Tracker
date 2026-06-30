@@ -61,7 +61,7 @@ Each wallet has a configurable monthly spending limit. Status updates automatica
 <img src="Monthly_Summary.png" width="800"/>
 
 ## 👛 Wallets Overview
-<img src="Wallet_.png" width="800"/>
+<img src="Wallet%20.png" width="800"/>
 
 ## ⚙️ Settings — Single Source of Truth
 <img src="Settings.png" width="800"/>
